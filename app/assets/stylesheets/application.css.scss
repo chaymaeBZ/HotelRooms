@@ -13,10 +13,12 @@
  *= require_tree .
  *= require_self
  */
+$font-url: 'https://fonts.googleapis.com/css?family=Josefin+Sans:300,400';
 @import "semantic-ui";
 @import 'bootstrap';
 @import 'bootstrap/theme';
-$font-url: 'https://fonts.googleapis.com/css?family=Josefin+Sans:300,400';
+
+
 h1 {
   font-family: 'Josefin Sans', sans-serif;
 }
